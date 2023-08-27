@@ -48,7 +48,7 @@ outlet
 coffee maker
 - Open the coffee grounds basket by lifting the lid
   
-### 3. Operating Your Coffee Maker:
+### 4. Operating Your Coffee Maker:
 1. Water Reservoir:
 - Lift the water reservoir lid and fill it with water up to the desired level.
 Close the lid securely
@@ -67,7 +67,7 @@ maker will automatically begin brewing
 - Once brewing is complete, the coffee maker will keep the brewed
 coffee warm on the hot plate for a specific duration
 
-### 4. Maintenance and Cleaning:
+### 5. Maintenance and Cleaning:
 1. Regular Cleaning:
 - Turn off and unplug the coffee maker before cleaning
 - Remove and clean the coffee grounds basket and water reservoir
@@ -77,14 +77,14 @@ regularly
 - Replace the paper or permanent coffee filter as needed to ensure
 optimal brewing
 
-### 6. Technical Specifications:
+### 7. Technical Specifications:
 - Capacity of water tank: 0.6 L
 - Length of cord: 0.85m
 - Frequency: 50/60 Hz
 - Voltage: 220 - 240 V
 - Brewing time (one jug): 10 min
 
-### 7. Weight and dimensions
+### 8. Weight and dimensions
 1. Dimensions
 - With packaging (WxDxH: 218 x 198 x 290 mm
 - Without packaging (WxDxH): 210 x 172 x 270 mm
